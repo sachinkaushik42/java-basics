@@ -1,6 +1,6 @@
 # Java Basics
 
-This repo contains Java programs created while learning fundamental programming concepts.
+This repository contains Java programs created while learning fundamental programming concepts.
 
 Topics covered:
 - Variables
