@@ -10,6 +10,5 @@ Topics covered:
 - Arrays
 - Methods
 - Conditional statements
-- Methods
   
 Author: Sachin Kaushik
